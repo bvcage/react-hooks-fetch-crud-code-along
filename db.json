@@ -13,18 +13,6 @@
       "isInCart": false
     },
     {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 5,
       "name": "Swiss Cheese",
       "category": "Dairy",
@@ -35,6 +23,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Oat Milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "McFlurry",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Avocados",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Bananas",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
     }
   ]
 }
